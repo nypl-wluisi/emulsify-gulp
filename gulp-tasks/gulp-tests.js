@@ -1,5 +1,5 @@
 /* globals require, process, __dirname */
-const ngrok = require('ngrok');
+const ngrok = require('@expo/ngrok');
 const psi = require('psi');
 const wpt = require('webpagetest');
 
